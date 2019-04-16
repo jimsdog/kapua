@@ -28,6 +28,7 @@ import org.eclipse.kapua.model.query.predicate.AttributePredicate.Operator;
 import org.eclipse.kapua.service.authorization.AuthorizationService;
 import org.eclipse.kapua.service.authorization.permission.PermissionFactory;
 import org.eclipse.kapua.service.scheduler.SchedulerDomains;
+import org.eclipse.kapua.service.scheduler.quartz.SchedulerEntityManagerFactory;
 import org.eclipse.kapua.service.scheduler.trigger.Trigger;
 import org.eclipse.kapua.service.scheduler.trigger.TriggerAttributes;
 import org.eclipse.kapua.service.scheduler.trigger.TriggerCreator;

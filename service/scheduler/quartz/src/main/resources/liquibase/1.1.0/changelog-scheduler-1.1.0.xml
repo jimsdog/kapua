@@ -18,5 +18,7 @@
         logicalFilePath="KapuaDB/changelog-scheduler-1.1.0.xml">
 
     <include relativeToChangelogFile="true" file="./trigger-description.xml"/>
+    <include relativeToChangelogFile="true" file="./trigger_definition.xml"/>
+    <include relativeToChangelogFile="true" file="./trigger_definition_properties.xml"/>
 
 </databaseChangeLog>
